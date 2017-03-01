@@ -1,0 +1,3 @@
+[submodule "mytest"]
+	path = mytest
+	url = git@github.com:dove8023/mytest.git
