@@ -1,3 +1,6 @@
 [submodule "mytest"]
 	path = mytest
 	url = git@github.com:dove8023/mytest.git
+[submodule "search"]
+	path = search
+	url = git@github.com:dove8023/search.git
