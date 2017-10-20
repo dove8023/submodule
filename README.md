@@ -8,8 +8,3 @@ what , it's been saved.
 
 Yes.
 
-
-One.
-TWO.
-
-LOCAL
